@@ -114,6 +114,6 @@ Output: Possible cause: Slow response or network latency
 
 ## 👨‍💻 Author
 
-Suyash Kumar Jaiswal
+Srishti Jaiswal
 
 ---
